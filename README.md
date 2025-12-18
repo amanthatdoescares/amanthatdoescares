@@ -1,22 +1,50 @@
-# Aman
+<h1 align="center">Hey 👋 I'm Aman</h1>
 
-Computer science student.
-Interested in systems, tooling, and open-source software.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ5d2R3dHk2dXN3ZTN0ZTB3N2I0OW1uM2U4ZWU5NWx2NWx6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
+</p>
 
-## Current focus
-- Swift and C++
-- Linux development
-- Developer tooling (VS Code, LSP, debuggers)
+---
 
-## Open-source
-- Contributor to `vscode-swift`
-- Learning SourceKit-LSP and Swift toolchains
+### 🚀 About me
+- CS student  
+- Open-source contributor  
+- Systems, tooling, and low-level curiosity  
+- Linux user by choice
 
-## What I value
-- Fundamentals over frameworks
-- Reading code before writing code
-- Simple, maintainable solutions
+---
 
-## Contact
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,swift,go,rust,kotlin,php,html,css,sql,bash" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,cmake,nodejs,react" />
+</p>
+
+---
+
+### 🔥 What I’m doing
+- Contributing to **vscode-swift**
+- Learning **SourceKit-LSP**
+- Writing and reading real code, not tutorials
+
+---
+
+### 🧩 Coding energy
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+</p>
+
+---
+
+### 🌐 Find me
 - GitHub: https://github.com/amanthatdoescares
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanthatdoescares&show_icons=true&hide_title=true)
