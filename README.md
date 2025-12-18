@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋 I'm Aman</h1>
 
 ### 🧠 C++ energy
-
 <p align="center">
-  <img src="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-math-gif-4443427307774160570" width="300"/>
+  <img src="https://media.giphy.com/media/jQwetg0eGv9zGOzSWQ/giphy.gif" width="300"/>
 </p>
 
 ---
