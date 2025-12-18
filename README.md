@@ -2,7 +2,7 @@
 
 ### 🧠 C++ energy
 <p align="center">
-  <img src="https://media.giphy.com/media/jQwetg0eGv9zGOzSWQ/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300"/>
 </p>
 
 ---
